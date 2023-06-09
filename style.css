@@ -2,6 +2,7 @@ body{
     background-color: rgb(213, 225, 239);
 }
 div{
+    font-family: 'Outfit', sans-serif;
     padding: 10px;  
     border-radius: 10px ;
     width:100%;
