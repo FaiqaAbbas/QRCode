@@ -8,7 +8,7 @@ body{
 main{
     box-sizing: border-box;
     padding: 15px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    font-family:'Outfit', Segoe UI, sans-serif ;
 
     inset: 0;
     width: 290px;
