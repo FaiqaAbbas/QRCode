@@ -7,7 +7,7 @@ body{
 }
 main{
 
-    border:20px solid white;
+    border:30px solid white;
     font-family:'Outfit', Segoe UI, sans-serif ;
     inset: 0;
     width: 260px;
@@ -37,6 +37,6 @@ p{
     padding:0px 10px 0px 10px;
     text-align: center;
     color: rgb(84, 83, 83);
-    font-size: 12px;
+    font-size: 15px;
     
 }
