@@ -7,7 +7,7 @@ body{
 }
 main{
     box-sizing:border-box;
-    border:30px solid white;
+    border:17px solid white;
     font-family:'Outfit', Segoe UI, sans-serif ;
     inset: 0;
     width: 260px;
